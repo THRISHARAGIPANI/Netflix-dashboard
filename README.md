@@ -1,17 +1,30 @@
 # Netflix-dashboard
 1. Project Title / Headline
 Netflix Intelligence Dashboard – Data Analysis and Visualization of Netflix Movies & TV Shows
-2. Short Description / Purpose:
+
+2. Short Description / Purpose
 This project analyzes Netflix Movies and TV Shows data using an interactive dashboard. It provides insights into content distribution, genres, ratings, countries, and release trends to better understand Netflix’s content library.
-3. Tech Stack :
+
+3. Tech Stack
+-->Power BI
+ -->Excel / CSV Dataset
+  -->DAX
+    -->Data Visualization
+
+5. Short Description / Purpose:
+This project analyzes Netflix Movies and TV Shows data using an interactive dashboard. It provides insights into content distribution, genres, ratings, countries, and release trends to better understand Netflix’s content library.
+
+6. Tech Stack :
 -->Power BI
  -->Excel / CSV Dataset
   -->DAX
    -->Data Visualization
-4. Release Year Trend :
+   
+7. Release Year Trend :
 A line chart visualizing how Netflix titles are distributed by release year.
 Helps identify trends in content production over time.
-5. Genre Distribution :
+
+8. Genre Distribution :
 A donut chart showing the distribution of titles across different genres such as:
 # Action
 # Comedy
@@ -20,7 +33,7 @@ A donut chart showing the distribution of titles across different genres such as
 # Thriller
 # Adventure
 6. Screenshot / Demo :
-Dashboard Preview (
+Dashboard looks like ![Alt text](https://github.com/THRISHARAGIPANI/Netflix-dashboard/blob/main/Screenshot%202026-03-13%20153216.png)
 
 Dashboard Components:
 KPI cards showing total titles and averages
